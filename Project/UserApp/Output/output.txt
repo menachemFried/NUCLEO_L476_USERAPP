@@ -1,0 +1,4 @@
+prebuild.sh : started
+prepareimage with windows executable
+ C:/Users/Menachem Fried/OneDrive - Binata/SBSFU_NUCLEO_L476/Project/L476_SBSFU/Common/KeysAndImages_Util/win/prepareimage/prepareimage.exe
+SECBOOT_AES128_GCM_AES128_GCM_AES128_GCM selected

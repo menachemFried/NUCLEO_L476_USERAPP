@@ -53,3 +53,4 @@ dkms.conf
 
 # debug information files
 *.dwo
+Project/UserApp/Debug/
